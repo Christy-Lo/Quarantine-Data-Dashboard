@@ -20,7 +20,7 @@ from order import views
 
 urlpatterns = [
     #path('admin/', admin.site.urls),
-    path('', admin.site.urls, name='index'),
-    path('order/',include('order.urls')),
+    #path('', admin.site.urls, name='index'),
     path('', views.dashboard, name='home'),
+    path('order/',include('order.urls')),
 ]
