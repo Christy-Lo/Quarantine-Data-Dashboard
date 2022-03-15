@@ -20,6 +20,6 @@ urlpatterns = [
     #path('admin/', admin.site.urls),
     #path('', admin.site.urls, name='index'),
     #path('order/',include('order.urls')),
-    path('',include('order.urls')),
+    path('',include('order.urls'), name = 'order'),
     
 ]
