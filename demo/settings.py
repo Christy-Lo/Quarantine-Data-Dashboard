@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-zm(ucxbc@*r=1g+cu*^r&m^cybv97#fusbha$%gnf4=(3)uxgx
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['DESKTOP-5GDMLVD', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['stark-everglades-57752.herokuapp.com','DESKTOP-5GDMLVD', 'localhost', '127.0.0.1']
 
 
 # Application definition
