@@ -8,5 +8,5 @@ It will consume the following api from https://data.gov.hk/:
 
 The website is pushed to heroku and can be found in this link: https://stark-everglades-57752.herokuapp.com/
 
-## Screencapture of the website
+## Website screen capture
 ![dashboard](https://user-images.githubusercontent.com/61792992/163233639-3cbf5093-0ae8-4daa-a9c1-bceec6dec169.PNG)
